@@ -8,7 +8,7 @@ export const PRODUCTS: Product[] = [
                 price: 19.400,
                 description: 'Zibellino Cashmere',
                 image: 'https://ogier1948.com/cdn/shop/files/DSC03233.jpg?crop=center&height=800&v=1761814965&width=800',
-                category: 'Apparel'
+                category: 'Phantom Elite'
             },
             {
                 id: 'p2',
@@ -24,7 +24,7 @@ export const PRODUCTS: Product[] = [
                 price: 3.400,
                 description: 'Wool, Microfiber',
                 image: 'https://ogier1948.com/cdn/shop/files/og-naxos-jacket-beige-01.jpg?crop=center&height=800&v=1754649870&width=800',
-                category: 'Apparel'
+                category: 'Phantom Elite'
             },
             {
                 id: 'p4',
@@ -40,7 +40,7 @@ export const PRODUCTS: Product[] = [
                 price: 4.400,
                 description: 'Silk, Wool, Technical fabric',
                 image: 'https://ogier1948.com/cdn/shop/files/DSC04045.jpg?crop=center&height=800&v=1761831877&width=800',
-                category: 'Apparel'
+                category: 'Phantom Elite'
             },
             {
                 id: 'p6',
@@ -72,7 +72,7 @@ export const PRODUCTS: Product[] = [
                 price: 2.550,
                 description: 'Navy Blue Cotton-Blend Jersey',
                 image: 'https://assets.christiandior.com/is/image/diorprod/513J626A0978C540_E01?$default_GHC$&crop=487,149,1021,1479&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
-                category: 'Apparel'
+                category: 'Phantom Elite'
             },
             
             
@@ -82,7 +82,7 @@ export const PRODUCTS: Product[] = [
                 price: 3.000,
                 description: 'Blue Cotton Twill',
                 image: 'https://assets.christiandior.com/is/image/diorprod/613D497A3037C585_E01?$default_GHC$&crop=391,156,1210,1610&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
-                category: 'Apparel'
+                category: 'Phantom Elite'
             },
             {
                 id: 'p11',

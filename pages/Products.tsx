@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { PRODUCTS } from '../constants';
 import ProductCard from '../components/ProductCard';
 
-const Categories = ['All', 'Apparel', 'Accessories', 'Phantom Elite'];
+const Categories = ['All', 'Apparel', 'Attire', 'Phantom Elite'];
 
 const Products: React.FC = () => {
   const [activeCategory, setActiveCategory] = useState('All');

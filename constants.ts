@@ -32,7 +32,7 @@ export const PRODUCTS: Product[] = [
                 price: 4200,
                 description: 'Superfine Wool',
                 image: 'https://ogier1948.com/cdn/shop/files/og-palm-vest-beige-01.jpg?crop=center&height=800&v=1754650134&width=800',
-                category: 'Accessories'
+                category: 'Attire'
             },
             {
                 id: 'p5',
@@ -48,7 +48,7 @@ export const PRODUCTS: Product[] = [
                 price: 6000,
                 description: 'Goatskin',
                 image: 'https://ogier1948.com/cdn/shop/files/og-figari-navy-01.jpg?crop=center&height=800&v=1754648013&width=800',
-                category: 'Accessories'
+                category: 'Attire'
             },
             {
                 id: 'p7',
@@ -64,7 +64,7 @@ export const PRODUCTS: Product[] = [
                 price: 2550,
                 description: 'Black Cotton-Blend Jersey',
                 image: 'https://assets.christiandior.com/is/image/diorprod/513J626A0978C900_E01-4?$default_GHC$&crop=502,152,996,1471&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
-                category: 'Accessories'
+                category: 'Attire'
             },
             {
                 id: 'p9',
@@ -90,7 +90,7 @@ export const PRODUCTS: Product[] = [
                 price: 3300,
                 description: 'Gray Cotton Flannel',
                 image: 'https://assets.christiandior.com/is/image/diorprod/313C509F3088C978_E01-4?$default_GHC$&crop=453,150,1095,1458&wid=1536&hei=1661&scale=0.7265&bfc=on&qlt=85',
-                category: 'Accessories'
+                category: 'Attire'
             },
             {
                 id: 'p12',

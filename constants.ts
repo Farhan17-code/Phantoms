@@ -16,7 +16,7 @@ export const PRODUCTS: Product[] = [
                 price: 4300,
                 description: 'Silk, Wool',
                 image: 'https://ogier1948.com/cdn/shop/files/og-kayak-black-01.jpg?crop=center&height=800&v=1754648781&width=800',
-                category: 'Apparel'
+                category: 'Accessories'
             },
             {
                 id: 'p3',
@@ -32,7 +32,7 @@ export const PRODUCTS: Product[] = [
                 price: 4200,
                 description: 'Superfine Wool',
                 image: 'https://ogier1948.com/cdn/shop/files/og-palm-vest-beige-01.jpg?crop=center&height=800&v=1754650134&width=800',
-                category: 'Apparel'
+                category: 'Accessories'
             },
             {
                 id: 'p5',
@@ -48,7 +48,7 @@ export const PRODUCTS: Product[] = [
                 price: 6000,
                 description: 'Goatskin',
                 image: 'https://ogier1948.com/cdn/shop/files/og-figari-navy-01.jpg?crop=center&height=800&v=1754648013&width=800',
-                category: 'Apparel'
+                category: 'Accessories'
             },
             {
                 id: 'p7',
@@ -56,7 +56,7 @@ export const PRODUCTS: Product[] = [
                 price: 2550,
                 description: 'Beige Cotton-Blend Jersey',
                 image: 'https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_1_LOOK_041_E07?$lookDefault_GH-GHC$&crop=568,0,1864,2000&wid=1024&hei=1107&scale=0.5535&bfc=on&qlt=85',
-                category: 'Apparel'
+                category: 'Accessories'
             },
             {
                 id: 'p8',
@@ -64,7 +64,7 @@ export const PRODUCTS: Product[] = [
                 price: 2550,
                 description: 'Black Cotton-Blend Jersey',
                 image: 'https://assets.christiandior.com/is/image/diorprod/513J626A0978C900_E01-4?$default_GHC$&crop=502,152,996,1471&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
-                category: 'Apparel'
+                category: 'Accessories'
             },
             {
                 id: 'p9',
@@ -90,7 +90,7 @@ export const PRODUCTS: Product[] = [
                 price: 3300,
                 description: 'Gray Cotton Flannel',
                 image: 'https://assets.christiandior.com/is/image/diorprod/313C509F3088C978_E01-4?$default_GHC$&crop=453,150,1095,1458&wid=1536&hei=1661&scale=0.7265&bfc=on&qlt=85',
-                category: 'Apparel'
+                category: 'Accessories'
             },
             {
                 id: 'p12',
@@ -98,7 +98,7 @@ export const PRODUCTS: Product[] = [
                 price: 1000,
                 description: 'Deep Gray Cotton Jersey',
                 image: 'https://assets.christiandior.com/is/image/diorprod/613J668A0677C889_E01?$default_GHC$&crop=455,150,1090,1350&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
-                category: 'Apparel'
+                category: 'Accessories'
             }
 ];
 

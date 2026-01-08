@@ -3,69 +3,103 @@ import { Product } from './types';
 
 export const PRODUCTS: Product[] = [
   {
-    id: 'p1',
-    name: 'Phantom Veil Hoodie',
-    price: 89.99,
-    description: 'Ultra-soft obsidian fabric with hidden inner pockets and oversized hood.',
-    image: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=600',
-    category: 'Apparel'
-  },
-  {
-    id: 'p2',
-    name: 'Shadow-Walk Joggers',
-    price: 65.00,
-    description: 'Breathable, tapered fit designed for urban exploration at night.',
-    image: 'https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&q=80&w=600',
-    category: 'Apparel'
-  },
-  {
-    id: 'p3',
-    name: 'Wraith Totem Necklace',
-    price: 45.00,
-    description: 'Sterling silver pendant etched with ancient runes.',
-    image: 'https://images.unsplash.com/photo-1611085583191-a3b13b84310a?auto=format&fit=crop&q=80&w=600',
-    category: 'Accessories'
-  },
-  {
-    id: 'p4',
-    name: 'Spectral Mesh Tee',
-    price: 39.99,
-    description: 'Semitransparent performance mesh for maximum airflow.',
-    image: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=600',
-    category: 'Apparel'
-  },
-  {
-    id: 'p5',
-    name: 'Eclipse Mask v2',
-    price: 120.00,
-    description: 'Limited edition matte black tech-mask with integrated filtration.',
-    image: 'https://images.unsplash.com/photo-1590333746438-283fd829b53a?auto=format&fit=crop&q=80&w=600',
-    category: 'Phantom Elite'
-  },
-  {
-    id: 'p6',
-    name: 'Void Leather Cloak',
-    price: 249.99,
-    description: 'Synthetic eco-leather, floor-length, weather-resistant.',
-    image: 'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&q=80&w=600',
-    category: 'Phantom Elite'
-  },
-  {
-    id: 'p7',
-    name: 'Midnight Cargo Vests',
-    price: 155.00,
-    description: 'Multi-pocket tactical vest with magnetic fasteners.',
-    image: 'https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=600',
-    category: 'Phantom Elite'
-  },
-  {
-    id: 'p8',
-    name: 'Ghost Gauntlets',
-    price: 75.00,
-    description: 'Fingerless tech-gloves with reinforced carbon knuckles.',
-    image: 'https://images.unsplash.com/photo-1542382257-80dedb725088?auto=format&fit=crop&q=80&w=600',
-    category: 'Accessories'
-  }
+                id: 'p1',
+                name: 'Jack Overcoat',
+                price: 19.400,
+                description: 'Zibellino Cashmere',
+                image: 'https://ogier1948.com/cdn/shop/files/DSC03233.jpg?crop=center&height=800&v=1761814965&width=800',
+                category: 'Apparel'
+            },
+            {
+                id: 'p2',
+                name: 'Kayak Fleece',
+                price: 4.300,
+                description: 'Silk, Wool',
+                image: 'https://ogier1948.com/cdn/shop/files/og-kayak-black-01.jpg?crop=center&height=800&v=1754648781&width=800',
+                category: 'Apparel'
+            },
+            {
+                id: 'p3',
+                name: 'Naxos Windstopper',
+                price: 3.400,
+                description: 'Wool, Microfiber',
+                image: 'https://ogier1948.com/cdn/shop/files/og-naxos-jacket-beige-01.jpg?crop=center&height=800&v=1754649870&width=800',
+                category: 'Apparel'
+            },
+            {
+                id: 'p4',
+                name: 'Palm Wool Vest',
+                price: 4.200,
+                description: 'Superfine Wool',
+                image: 'https://ogier1948.com/cdn/shop/files/og-palm-vest-beige-01.jpg?crop=center&height=800&v=1754650134&width=800',
+                category: 'Apparel'
+            },
+            {
+                id: 'p5',
+                name: 'Otto Jacket',
+                price: 4.400,
+                description: 'Silk, Wool, Technical fabric',
+                image: 'https://ogier1948.com/cdn/shop/files/DSC04045.jpg?crop=center&height=800&v=1761831877&width=800',
+                category: 'Apparel'
+            },
+            {
+                id: 'p6',
+                name: 'Figari Bomber',
+                price: 6.000,
+                description: 'Goatskin',
+                image: 'https://ogier1948.com/cdn/shop/files/og-figari-navy-01.jpg?crop=center&height=800&v=1754648013&width=800',
+                category: 'Apparel'
+            },
+            {
+                id: 'p7',
+                name: 'Dior Oblique Hooded Sweatshirt',
+                price: 2.550,
+                description: 'Beige Cotton-Blend Jersey',
+                image: 'https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_1_LOOK_041_E07?$lookDefault_GH-GHC$&crop=568,0,1864,2000&wid=1024&hei=1107&scale=0.5535&bfc=on&qlt=85',
+                category: 'Apparel'
+            },
+            {
+                id: 'p8',
+                name: 'Dior Oblique Hooded Sweatshirt',
+                price: 2.550,
+                description: 'Black Cotton-Blend Jersey',
+                image: 'https://assets.christiandior.com/is/image/diorprod/513J626A0978C900_E01-4?$default_GHC$&crop=502,152,996,1471&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
+                category: 'Apparel'
+            },
+            {
+                id: 'p9',
+                name: 'Dior Oblique Hooded Sweatshirt',
+                price: 2.550,
+                description: 'Navy Blue Cotton-Blend Jersey',
+                image: 'https://assets.christiandior.com/is/image/diorprod/513J626A0978C540_E01?$default_GHC$&crop=487,149,1021,1479&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
+                category: 'Apparel'
+            },
+            
+            
+            {
+                id: 'p10',
+                name: 'Dior Ribbon Overshirt',
+                price: 3.000,
+                description: 'Blue Cotton Twill',
+                image: 'https://assets.christiandior.com/is/image/diorprod/613D497A3037C585_E01?$default_GHC$&crop=391,156,1210,1610&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
+                category: 'Apparel'
+            },
+            {
+                id: 'p11',
+                name: 'Cannage Overshirt with Christian Dior Couture Embroidery',
+                price: 3.300,
+                description: 'Gray Cotton Flannel',
+                image: 'https://assets.christiandior.com/is/image/diorprod/313C509F3088C978_E01-4?$default_GHC$&crop=453,150,1095,1458&wid=1536&hei=1661&scale=0.7265&bfc=on&qlt=85',
+                category: 'Apparel'
+            },
+            {
+                id: 'p12',
+                name: 'Dior Ribbon T-Shirt, Regular Fit',
+                price: 1.000,
+                description: 'Deep Gray Cotton Jersey',
+                image: 'https://assets.christiandior.com/is/image/diorprod/613J668A0677C889_E01?$default_GHC$&crop=455,150,1090,1350&wid=1024&hei=1107&scale=0.4843&bfc=on&qlt=85',
+                category: 'Apparel'
+            }
 ];
 
 export const BRAND_STORY = `

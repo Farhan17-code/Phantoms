@@ -1,0 +1,7 @@
+{
+  "name": "Phantom Wears - E-commerce Reimagined",
+  "description": "A premium, high-performance fashion e-commerce SPA featuring mystical animations, soundscapes, and an integrated Gemini AI fashion consultant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

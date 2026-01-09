@@ -50,7 +50,7 @@ const Footer: React.FC = () => {
       </div>
       
       <div className="max-w-7xl mx-auto mt-20 pt-8 border-t border-zinc-900 flex flex-col md:flex-row justify-between items-center gap-4">
-        <p className="text-[10px] text-zinc-700 uppercase tracking-widest">© 2025 PHANTOM WEARS. ALL RIGHTS RESERVED.</p>
+        <p className="text-[10px] text-zinc-700 uppercase tracking-widest">© 2026 PHANTOM WEARS. ALL RIGHTS RESERVED.</p>
         <p className="text-[10px] text-zinc-700 uppercase tracking-widest">MADE IN THE SHADOWS.</p>
       </div>
     </footer>

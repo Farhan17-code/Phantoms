@@ -13,7 +13,7 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 relative">
         <div className="z-10 animate-in fade-in zoom-in duration-1000">
-          <h2 className="text-zinc-500 text-[10px] tracking-[0.6em] uppercase mb-6">Equinox '25 Manifest</h2>
+          <h2 className="text-zinc-500 text-[10px] tracking-[0.6em] uppercase mb-6">Equinox '26 Manifest</h2>
           <h1 className="font-cinzel text-6xl md:text-9xl font-bold tracking-tighter mb-8 bg-gradient-to-b from-white via-zinc-400 to-zinc-800 bg-clip-text text-transparent">
            PHANTOM WEARS
           </h1>
